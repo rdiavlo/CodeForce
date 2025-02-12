@@ -8,8 +8,8 @@
 
 ## todo
 1. add documentation and sanitize created/completed scripts
-    Sanitized(800) till - 207 (DONE)
-    Sanitized(800) till - 18 (DONE)
+    Sanitized(800) till - 107 (DONE)
+    Sanitized(1200) till - 18 (DONE)
 2. add helper modules: 
    1. add question to each file. create file from question (crawl codeforce)
    2. git push
