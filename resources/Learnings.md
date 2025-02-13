@@ -15,7 +15,7 @@
 
 ## Notes
 
-* get a feel for approach; sit still and think it through
+* get a feel for approach; sit still and think it through & THROUGH
 * put pen to paper; until you can speck it in english
 * have confidence in the result; leave no corner case open
 

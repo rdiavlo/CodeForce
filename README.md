@@ -1,6 +1,8 @@
 
 # ⚔️⚔️⚔️ CodeForce ⚔️⚔️⚔️
 
+![alt text](./resources/samurai.jpg "samurai")
+
 ## Milestones
 * Lvl-800 ➡️ Complete to 200 (by: 28 Feb 25)
 * Lvl-1200 ➡️ Complete to 25 (by: 28 Feb 25)
@@ -9,15 +11,16 @@
 1. add helper modules: 
    - add documentation to legacy file(that which are transferred from local) - web crawl codeForce 
 2. Add documentation sheet to record learnings, approaches and knowledge dumps
-3. add project euler
+3. integrate with project euler; repo objective transitions to encapsulate challenge portals
 
 
-##  [Learnings](./Learnings.md)
+##  [Learnings](resources/Learnings.md)
 The learnings in the process or solving problems are aggregated here. Use this as a protocol & info dump
 <hr>
 
 ## Logs
 
+### 13 Feb 25
 * Completed challenges - 13 (Lvl-800)
   1. 8-Prepend and Append
   2. 9-Floor Number
