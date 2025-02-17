@@ -20,6 +20,23 @@ The learnings in the process or solving problems are aggregated here. Use this a
 
 ## Logs
 
+### 17 Feb 25
+1. B. osu!mania
+2. B. Ordinary Numbers
+3. A. Odd Set
+4. A. Legs 
+5. C. Can I Square? 
+6. A. Make it White
+7. C. Target Practice
+
+### 14 Feb 25
+1. Triple 
+2. Yogurt Sale
+
+### 14 Feb 25
+  1. B. Following Directions
+  2. C. Word on the Paper
+
 ### 13 Feb 25
 * Completed challenges - 13 (Lvl-800)
   1. 8-Prepend and Append
