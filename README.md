@@ -34,24 +34,24 @@ The learnings in the process or solving problems are aggregated here. Use this a
 2. Yogurt Sale
 
 ### 14 Feb 25
-  1. B. Following Directions
-  2. C. Word on the Paper
+1. B. Following Directions
+2. C. Word on the Paper
 
 ### 13 Feb 25
-* Completed challenges - 13 (Lvl-800)
-  1. 8-Prepend and Append
-  2. 9-Floor Number
-  3. 10-A. Mahmoud and Ehab and the even-odd game
-  4. B. Honest Coach
-  5. A. How Much Does Daytona Cost?
-  6. A. My First Sorting Problem
-  7. B. Maximum Multiple Sum
-  8. B. Colourblindness
-  9. Collecting Coins
-  10. A. Night at the Museum
-  11. A. Magical Sticks 
-  12. A. Maximum Increase
-  13. B. Atilla's Favorite Problem
+Completed challenges - 13 (Lvl-800)
+1. 8-Prepend and Append
+2. 9-Floor Number
+3. 10-A. Mahmoud and Ehab and the even-odd game
+4. B. Honest Coach
+5. A. How Much Does Daytona Cost?
+6. A. My First Sorting Problem
+7. B. Maximum Multiple Sum
+8. B. Colourblindness
+9. Collecting Coins
+10. A. Night at the Museum
+11. A. Magical Sticks 
+12. A. Maximum Increase
+13. B. Atilla's Favorite Problem
    
 ### 12 Feb 25
 1. The created/completed scripts have been sanitized for sensitive data/content. 
