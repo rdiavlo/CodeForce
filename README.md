@@ -20,7 +20,14 @@ The learnings in the process or solving problems are aggregated here. Use this a
 
 ## Logs
 
+### 18 Feb 25
+#### (Lvl-1200)
+1. B. Vanya and Lanterns
+2. A. Cheap Travel
+3. C. K-th Not Divisible by n
+
 ### 17 Feb 25
+#### (Lvl-800)
 1. B. osu!mania
 2. B. Ordinary Numbers
 3. A. Odd Set
@@ -30,10 +37,12 @@ The learnings in the process or solving problems are aggregated here. Use this a
 7. C. Target Practice
 
 ### 14 Feb 25
+#### (Lvl-800)
 1. Triple 
 2. Yogurt Sale
 
 ### 14 Feb 25
+#### (Lvl-800)
 1. B. Following Directions
 2. C. Word on the Paper
 
