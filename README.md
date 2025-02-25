@@ -20,7 +20,27 @@ The learnings in the process or solving problems are aggregated here. Use this a
 
 ## Logs
 
+### 25 Feb 25
+#### (Lvl-800)
+1. B. Ten Words of Wisdom
+2. A. Square
+3. B. Not Quite Latin Square
+4. B. Gifts Fixing
+5. A. Easy Problem
+6. A. Fafa and his Company
+7. A. Perfect Permutation
+8. B. Grab the Candies
+9. A. Rudolf and the Ticket
+
+
 ### 18 Feb 25
+#### (Lvl-1200)
+1. A. Chewbaсca and Number
+2. B. Worms
+
+### 18 Feb 25
+Archived previous solving os Lvl-1200. Have restarted solving these from scratch. 
+This time it shall be thought through and presented elegantly.
 #### (Lvl-1200)
 1. B. Vanya and Lanterns
 2. A. Cheap Travel
